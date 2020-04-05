@@ -1,0 +1,13 @@
+main()!
+
+A()
+
+Inside ConsoleHandlerRoutine, setting the global run_flag to false
+Exited while loop
+Exiting from main()
+A()
+
+~A()
+
+~A()
+
